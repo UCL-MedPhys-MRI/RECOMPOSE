@@ -1,3 +1,4 @@
 [deps]
+MAT = "23992714-dd62-5051-b70f-ba57cb901cac"
 NIfTI = "a3a9e032-41b5-5fc4-967a-a6b7a19844d3"
 QSM = "794fc106-2fa4-440f-961c-0d7d7b47016a"
